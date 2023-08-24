@@ -1,6 +1,25 @@
 h1 {
-    color:blue
+    color: #234457
 }
+
 h2 {
-    color:blue
+    color: #787878 
 }
+
+h1 {
+    font-family: Trebuchet MS ;
+}
+
+pre {
+    font-family: Trebuchet MS ;
+}
+
+li { 
+    font-family: Trebuchet MS ;
+}
+
+h2 {
+    font-family: Trebuchet MS ; 
+}
+
+
